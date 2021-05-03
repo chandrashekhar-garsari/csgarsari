@@ -1,1 +1,2 @@
 This is my test file for github.
+$ git remote add origin https://github.com/chandrashekhar-garsari/csgarsari.git
